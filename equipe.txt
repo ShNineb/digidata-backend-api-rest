@@ -1,0 +1,12 @@
+Configuration de l'environnement de développement : devenvt
+Création de la base de données: bd
+Création d'API via Flask: API
+Refactoring, test et validation de scripts: testAPI
+Test via Postman: testPM
+Déploiement sur Heroku: heroku
+Doc technique: doctec
+Doc client: docclient
+
+Lara DUNUAN : devenvt, API, testAPI, testPM, heroku, doctec, docclient
+Mei GAN : devenvt, bd, API, testAPI, testPM, heroku, doctec, docclient
+Sheherazade  NINEB ; devenvt, bd, API, testAPI, heroku, doctec, docclient
